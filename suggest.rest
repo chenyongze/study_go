@@ -1,0 +1,39 @@
+========
+意见收集
+========
+
+`查看Go语言资料收集 <https://github.com/wonderfo/wonderfogo/wiki>`_	
+
+说明
+====
+
+登记同学提出的，且被采用的优化意见或错误，同学的名称链接是邮箱地址
+
+明细
+====
+
+* **2012-01-29** `monnand <mailto://monnand@gmail.com>`_
+
+    * `GNU not GUN <https://github.com/wonderfo/wonderfogo/issues/1>`_
+    * `开发团队人员介绍有问题 <https://github.com/wonderfo/wonderfogo/issues/2>`_
+
+* **2011-12-28** `四月份平民 <mailto://lewgun@hotmail.com>`_
+
+    * 再补充一本书 http://go-book.appspot.com
+
+* **2011-12-24** `四月份平民 <mailto://lewgun@hotmail.com>`_
+
+    * 补充另一个 go教程
+    * http://golangtutorials.blogspot.com/2011/05/table-of-contents.html
+    
+* **2011-12-24**  `Yili Zhao <mailto://panovr@gmail.com>`_
+
+    * 补充一个由Rob Thornton撰写的关于Cgo的教程：
+    * Part 1: http://noeffclue.blogspot.com/2011/09/experimenting-with-cgo-part-1.html
+    * Part 2: http://noeffclue.blogspot.com/2011/10/experimenting-with-cgo-part-2.html
+    * Part 3: http://noeffclue.blogspot.com/2011/10/experimenting-with-cgo-part-3-errno.html
+
+* **2011-12-20** `Howard Fan <mailto://fan.howard@gmail.com>`_	
+
+    * Sawzall 是rob的，和ken应该无关，见 http://research.google.com/people/r/
+
